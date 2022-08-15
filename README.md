@@ -1,5 +1,7 @@
 # Clustering credit card users
 
+Clustering credit card clients with KMeans
+
 ## Data
 https://www.kaggle.com/datasets/arjunbhasin2013/ccdata
 
